@@ -29,6 +29,7 @@ Wildlife experts say unusual bird behavior near tourist areas may be linked to i
 Could you make a picture that supports this text?
 ```
 ## Output
+[image]
 
 ## Prompt
 ```text
@@ -36,3 +37,4 @@ This looks too fake. Can you maybe only make a picture of a cruise ship without 
 ```
 
 ## Output
+[Image used in questionnaire]
