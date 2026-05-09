@@ -37,6 +37,32 @@ Experts say the growing popularity of digital study environments reflects changi
 
 ## Prompt
 ```text
-Can you generate 3 more very difficult fake news articles that are hard to recognize as fake?
+European Cities Consider “Quiet Zones” for Tourists Using Speakers in Public
+Several European cities are discussing new rules that would create “quiet zones” 
+where tourists are not allowed to play music through portable speakers in crowded public areas. 
+Local officials say complaints about noise pollution have increased in popular tourist 
+locations over the past two years. Supporters believe the measure could improve public safety and 
+reduce disturbances for residents. Critics argue that the rules may unfairly target younger tourists 
+and be difficult to enforce consistently.
+could you make a picture that supports this text?
 ```
+
+## Output
+[image]
+
+## Prompt
+```text
+Looks nice alreadty, but has to be more realistic. The tourists can stay, but the board has to be less prominent. You can even add
+something like 'St Tropez' or something to give it more of a summer tourist vibe. Keep the same text as reference
+European Cities Consider “Quiet Zones” for Tourists Using Speakers in Public
+Several European cities are discussing new rules that would create “quiet zones” 
+where tourists are not allowed to play music through portable speakers in crowded public areas. 
+Local officials say complaints about noise pollution have increased in popular tourist 
+locations over the past two years. Supporters believe the measure could improve public safety and 
+reduce disturbances for residents. Critics argue that the rules may unfairly target younger tourists 
+and be difficult to enforce consistently.
+```
+
+## Output
+[Image used in questionnaire]
 
