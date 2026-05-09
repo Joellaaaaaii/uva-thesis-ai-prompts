@@ -1,0 +1,33 @@
+# Questionnaire – Question 3
+
+## Goal
+Generate fake GenAI news content for Question 3 of the thesis questionnaire Part 1.
+
+## Tool 
+ChatGPT+
+
+## Prompt
+```text
+Could you make other ones too? Maybe with something like Trump or with animals. Could you make one hard one and one difficult one? 
+```
+## Output
+
+Trump Criticizes Universities Over Use of Artificial Intelligence in Education
+Former U.S. President Donald Trump criticized American universities for their increasing use of artificial intelligence tools in classrooms during a recent campaign speech.
+Trump argued that students are becoming “too dependent on technology” and claimed that traditional teaching methods are being replaced too quickly. He also suggested that universities should introduce clearer rules for the use of AI in assignments and exams.
+Education experts responded with mixed opinions. Some agreed that AI could affect critical thinking skills, while others argued that AI tools are becoming a necessary part of modern education and work
+
+Researchers Study Whether Urban Foxes Are Becoming More Comfortable Around Humans
+Researchers in several European cities are studying whether urban foxes are becoming increasingly comfortable around humans due to constant exposure to city environments.
+According to the researchers, foxes in urban areas appear less fearful of traffic, noise, and human activity compared to foxes living in rural regions.
+Wildlife experts say the behavior could be linked to changing food sources and growing urbanization, although more long-term research is still needed.
+
+## Prompt
+```text
+It doesnt have to include AI, it just can be something alone
+```
+
+Former U.S. President Donald Trump called for stricter rules regarding international student protests at American universities during a recent campaign event.
+According to Trump, universities should take stronger action when demonstrations disrupt classes or campus activities. Supporters argued that the proposal could improve safety and order on campuses, 
+while critics warned that it could limit freedom of expression.
+The comments quickly sparked discussion online, especially among students and political commentators.
