@@ -1,1 +1,26 @@
+# Questionnaire – Part 3 Question 6
 
+## Goal
+Generate a fake GenAI article for Question 6 of the thesis questionnaire Part 3.
+
+## Tool 
+ChatGPT+
+
+## Prompt
+```text
+Researchers Say More Students Are Using Background Noise to Improve Concentration
+Researchers from multiple European universities say more students are using 
+background sounds such as café noise, rainfall, or ambient music while studying.
+According to the researchers, many students reported that controlled background noise helped them stay focused during long study sessions.
+Experts say the growing popularity of digital study environments reflects changing study habits among younger adults.
+Can you make a picture that supports this text?
+```
+## Output
+
+## Prompt
+```text
+It has to be may more realistic. Less pixels and less of a portret photo modus. (repeated this cycle 3 times).
+```
+
+## Output
+[Image used in questionnaire]
