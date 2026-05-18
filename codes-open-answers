@@ -1,0 +1,46 @@
+Code	Hoofdcategorie	When to use
+		
+A1	Positive perception of GenAI | Participant has a positive perception of GenAI. Positive perceptions include e.g. time-efficient, productivity, usefulness, help with daily or work related tasks or just an overall positive view. 
+A2	Negative perception of GenAI	| Participant has a negative perception of GenAI. Negative perceptions include e.g. harmfulness and misinformation
+A3	Neutral perception of GenAI	| Participant has a neutral perception of GenAI. Neutral perceptions include e.g. nescience about the topic, a viewpoint that stands in between a positive and negative standpoint while also keeping aspects as 'danger' in mind.
+		
+B1	Concerns about GenAI misinformation |	Participant names fake news, misinformation, misleadingness.
+B2	Concerns about GenAI dependency	| Participant thinks that people will become dependent on (Gen)AI in terms of thinking ability/skills, reliability on (Gen)AI in specific areas (e.g. academic, business/coorperate).
+B3	Concerns about GenAI environmental factors | Participant names energy loss, water usage, losing jobs because of (Gen)AI or climate impact. 
+		
+C1	Lack of knowledge/ uncertainty |	Participant does not know enough about the subject, has doubts/ hesitations or does not know enough about the subject. 
+C2	Invalid answer |	Participant does not answer the question, but could give additional information.
+		
+D1	Conceptual GenAI |	Participant defines GenAI as AI that generates text, images, answers and new content. 
+D2	Product of GenAI |	Participant links GenAI to e.g. Gemini, ChatGPT instead of a clear definition. 
+D3	Infrastructure of GenAI |	Participant links GenAI to datasets, patterns, information (combination) and learning from data. 
+D4	Technology GenAI | Paricipants uses definitions such as an computer, powerful machine, robot, smart technology, program, system, platform and/or helpful tool.
+D5	Use of GenAI |	Participant names prompts, responsing to questions or reacting to input. 
+		
+E1	Prior knowledge |	Participant bases their judgment on previously seen/heard news or their own knowledge.
+E2	Source & information quality	| Participant mentions a lack of source, evidence, context, or origin as a reason for doubt.
+E3	Content realism & specificity	| Participant mentions details, numbers, facts, or specificity as reasons for credibility or doubt.
+E4	Perceived GenAI writing style	| Participant finds the text AI-like because of its structure, generic tone, repetition, long sentences, and/or because it is 'too polished'.
+E5	Perceived human authenticity | Participant finds the text human-like because of its natural sentence structure, messiness, or because it is 'not too perfect'.
+E6	Perceived plausbility |	Participant evaluates whether the event sounds logical, possible, or realistic and optionally states their reasoning.
+		
+F1	Visual GenAI aspects |	Participant mentions visual errors such as hands, faces, symmetry, distortions, strange objects and/ or shadows.
+F2	Perceived visual realism |	Participant finds the image believable because there are no visible errors, that they think the situation can occur often (so there is no need for it to be GenAI generated) and/ or because it looks realistic.
+F3	Artificial appearance |	Participant finds something suspicious because it looks too perfect, clean, polished, or staged.
+		
+G1	Text-Image credibility conflict |	Participant thinks the text is incorrect, but image is correct. 
+G2	Image-Text credibility conflict |	Participant thinks the text is correct, but image is incorrect. 
+G3	Text-Image inconsistency |	Participant mentions that the image and text do not match well or contradict each other.
+		
+H1	Intuitive reasoning text |	Participant gives reasons based of their 'intuition' or 'feeling' without much content-related substantiation 
+H2	Perceived ambiguity text |	Participant finds GenAI/human generated content hard to distinguish. Says it can be both (as part of their reasoning/ response). 
+H3	Intuitive reasoning images |	Participant gives reasons based of their 'intuition' or 'feeling' without much content-related substantiation 
+H4	Perceived ambiguity images |	Participant finds GenAI/human generated content hard to distinguish. Says it can be both (as part of their reasoning/ response). 
+H5	Intuitive reasoning articles |	Participant gives reasons based of their 'intuition' or 'feeling' without much content-related substantiation 
+H6	Perceived ambiguity articles |	Participant finds GenAI/human generated content hard to distinguish. Says it can be both (as part of their reasoning/ response). 
+		
+These themes were not explicitly asked about in the questionnaire but emerged inductively from participant responses.		
+I1	Emotional aspects	| Participant refers to emotions, emotional reactions, or feelings (e.g., fear, concern, surprise, discomfort, excitement, distrust) when evaluating the content.
+I2	Trust aspects |	Participant explicitly refers to trust, credibility, reliability, or confidence in the content, source, platform, or technology.
+I3	Content format aspects |	Participant bases their judgment on the format, presentation, style, structure, layout, visuals, wording, or overall appearance of the content.
+I4	Educational level aspects |	Participant refers to knowledge, intelligence, educational background, digital literacy, media literacy, or perceived ability to understand or evaluate the content.
